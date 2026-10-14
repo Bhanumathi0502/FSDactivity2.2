@@ -1,0 +1,17 @@
+
+{
+  "name": "activity2-2",
+  "version": "1.0.0",
+  "description": "Coding Activity 2.2 - Deploy Your Application",
+  "main": "http-server.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "node http-server.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
